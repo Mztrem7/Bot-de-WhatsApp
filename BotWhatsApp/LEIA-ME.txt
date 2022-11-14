@@ -1,0 +1,5 @@
+@authorSorriso
+
+1-Tenha certeza de que você tenha o whatsapp web instalado no computador 
+(Caso não tenha: https://www.microsoft.com/store/productId/9NKSQGP7F2NH)
+2-Desative o Windows Defender antes de utilizar
